@@ -1,0 +1,21 @@
+.card-text{
+    font-size: small;
+}
+.btCap{
+    width: 150px;
+    height: 40px;
+}
+.imgCap{
+    background-image: url(./images/arroser.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding-bottom: 450px;
+}
+.card1{
+    margin-top: 100px;
+}
+@media screen and (max-width: 900px) {
+    .imgCap{
+        padding-bottom: 300px;
+    }
+} 

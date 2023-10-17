@@ -1,0 +1,33 @@
+/* .footer, .cont, .conta{
+    background-color: #ECECEC;
+} */
+.textFoot{
+    font-size: x-small;
+}
+.titleFoot{
+    font-size: smaller;
+}
+.cont a{
+    text-decoration: none;
+    color: #333333;
+    font-size: smaller;
+}   
+.conta a{
+    text-decoration: none;
+    background-color: #336EE1;
+    width: 20px;
+    height: 20px;
+    color: #fff;
+    border-radius: 50%;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.formTit{
+    font-size: small;
+}
+.socio{
+    display: flex;
+    
+}

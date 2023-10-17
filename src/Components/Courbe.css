@@ -1,0 +1,13 @@
+#graph{
+    background-image: url('./images/Graph.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 100%;
+    padding-bottom: 500px;
+}
+@media screen and (max-width: 1000px) {
+    #graph{
+        padding-bottom: 150px;
+    }
+    
+} 
